@@ -1,0 +1,14 @@
+C:\Users\alekseevsv\source\repos\PatternSample\bin\Debug\PatternSample.exe.config
+C:\Users\alekseevsv\source\repos\PatternSample\bin\Debug\PatternSample.exe
+C:\Users\alekseevsv\source\repos\PatternSample\bin\Debug\PatternSample.pdb
+C:\Users\alekseevsv\source\repos\PatternSample\obj\Debug\MainWindow.g.cs
+C:\Users\alekseevsv\source\repos\PatternSample\obj\Debug\App.g.cs
+C:\Users\alekseevsv\source\repos\PatternSample\obj\Debug\PatternSample_MarkupCompile.cache
+C:\Users\alekseevsv\source\repos\PatternSample\obj\Debug\PatternSample_MarkupCompile.lref
+C:\Users\alekseevsv\source\repos\PatternSample\obj\Debug\MainWindow.baml
+C:\Users\alekseevsv\source\repos\PatternSample\obj\Debug\PatternSample.g.resources
+C:\Users\alekseevsv\source\repos\PatternSample\obj\Debug\PatternSample.Properties.Resources.resources
+C:\Users\alekseevsv\source\repos\PatternSample\obj\Debug\PatternSample.csproj.GenerateResource.cache
+C:\Users\alekseevsv\source\repos\PatternSample\obj\Debug\PatternSample.csproj.CoreCompileInputs.cache
+C:\Users\alekseevsv\source\repos\PatternSample\obj\Debug\PatternSample.exe
+C:\Users\alekseevsv\source\repos\PatternSample\obj\Debug\PatternSample.pdb
